@@ -41,7 +41,8 @@ const sgvero = {
 <br/>
 <h3>📱 &nbsp;Connect with Me </h3>
 <a href="https://www.instagram.com/sgvero.ic/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@sgvero.ic__-maroon?style=flat-square&logo=instagram"></a>
-<a href="mailto:sgvero.box@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sgvero.box@gmail.com-tomato?style=flat-square&logo=gmail"></a>
+<a href="mailto:sgvero.box@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sgvero.box@gmail.com-1190C2?style=flat-square&logo=gmail"></a>
+<a href="https://sgvero.mscode.net.ar/"><img alt="Website" src="https://img.shields.io/badge/Website-sgvero.mscode.net.ar-236736?style=flat-square&logo=google-chrome"></a>
 
 
 <!--
