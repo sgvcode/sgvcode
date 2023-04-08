@@ -1,4 +1,4 @@
-### Hello there👋
+### Hi there!👋
 
 
 ```javascript
@@ -16,7 +16,7 @@ const sgvero = {
 ```
 
 - 🔭 I’m currently working on [iconcept](https://iconcept.com.ar)
-- 🌱 I’m currently learning Fullstack with Java, React, Flutter
+- 🌱 I’m currently learning Fullstack with Java, ReactJS, Flutter
 <br/>
 
 - 💻 &nbsp;
@@ -44,9 +44,10 @@ const sgvero = {
 <a href="mailto:sgvero.box@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sgvero.box@gmail.com-1190C2?style=flat-square&logo=gmail"></a>
 <a href="https://sgvero.mscode.net.ar/"><img alt="Website" src="https://img.shields.io/badge/Website-sgvero.mscode.net.ar-236736?style=flat-square&logo=google-chrome"></a>
 
-
 <!--
 **sgvcode/sgvcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![sgvcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=sgvcode&show_icons=true&theme=transparent)
 
 Here are some ideas to get you started:
 
