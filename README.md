@@ -32,14 +32,17 @@ const sgvero = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
 ![Xampp](http://img.shields.io/badge/-Xampp-FF9A00?style=flat&logo=xampp&logoColor=white)
 ![Mamp](http://img.shields.io/badge/-Mamp-FF9A00?style=flat&logo=mamp&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat?style=flat&logo=WordPress&logoColor=FFFFFF&label=)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
 
-#### UX/UI - Design and Photography:
+#### UX/UI - Design, Drawing and Photography:
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/-InDesign-FF4097?style=flat&logo=adobe-indesignr&logoColor=white)
-
+![Sketchup](https://img.shields.io/badge/-Sketchup-F05032?style=flat&logo=sketchup&logoColor=white)
+![Autocad](https://img.shields.io/badge/-Autocad-005F9E?style=flat&logo=Autodesk&logoColor=FFFFFF&label=)
+![Elementor](https://img.shields.io/badge/-Elementor-92003B?style=flat&logo=Elementor&logoColor=FFFFFF&label=)
 
 <!--
 - 💻 &nbsp;
@@ -62,9 +65,9 @@ const sgvero = {
   ![V-Ray](https://img.shields.io/badge/-VRay-333333?style=flat&logo=chaos-vray)
 -->  
 <h3>📱 &nbsp;Connect with Me </h3>
-<a href="https://www.instagram.com/sgvero.ic/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@sgvero.ic__-maroon?style=flat-square&logo=instagram"></a>
-<a href="mailto:sgvero.box@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sgvero.box@gmail.com-1190C2?style=flat-square&logo=gmail"></a>
-<a href="https://sgvero.mscode.net.ar/"><img alt="Website" src="https://img.shields.io/badge/Website-sgvero.mscode.net.ar-236736?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.instagram.com/sgvero.ic/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@sgvero.ic__-maroon?style=flat&logo=instagram"></a>
+<a href="mailto:sgvero.box@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sgvero.box@gmail.com-1190C2?style=flat&logo=gmail"></a>
+<a href="https://sgvero.mscode.net.ar/"><img alt="Website" src="https://img.shields.io/badge/Website-sgvero.mscode.net.ar-6B28C6?style=flat&logo=google-chrome"></a>
 
 <!--
 **sgvcode/sgvcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
