@@ -15,7 +15,7 @@ const sgvero = {
 }
 ```
 - 🔭 I’m currently working on [iconcept](https://iconcept.com.ar)
-- 🌱 I’m currently learning Fullstack ![Java](https://img.shields.io/badge/-Java-6EBF20?style=flat&logo=java&logoColor=white) ![React](https://img.shields.io/badge/-React-E34F26?style=flat&logo=react&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-E34F26?style=flat&logo=flutter&logoColor=white)
+- 🌱 I’m currently learning Fullstack ![Java](https://img.shields.io/badge/-Java-6EBF20?style=flat&logo=java&logoColor=white) ![React](https://img.shields.io/badge/-React-E34F26?style=flat&logo=react&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-833EF2?style=flat&logo=flutter&logoColor=white)
 
 #### Languages and frameworks:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -30,10 +30,10 @@ const sgvero = {
 ![NetBeans](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=flat&logo=apache-netbeans-ide&logoColor=white")
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
 ![Xampp](http://img.shields.io/badge/-Xampp-FF9A00?style=flat&logo=xampp&logoColor=white)
 ![Mamp](http://img.shields.io/badge/-Mamp-FF9A00?style=flat&logo=mamp&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
 
 #### UX/UI - Design and Photography:
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
