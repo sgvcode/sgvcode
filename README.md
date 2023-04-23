@@ -9,7 +9,7 @@ const sgvero = {
     jobSkills: {
                    architect: "3D Rendering",
                    designer: "Graphic and Editorial",
-                   coder: "Front-end dev"
+                   dev: "Front-end dev"
                },
     challenge: "I am doing trainig on frontendmentor",
 }
