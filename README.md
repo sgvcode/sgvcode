@@ -4,14 +4,14 @@
 ```javascript
 const sgvero = {
     pronouns: "she" | "her",
-    code: [HTML, CSS, JavaScript, Python, MySQL],
-    tools: [Angular, NodeJS, VScode, Github, New Relic],
+    code: [HTML, CSS, JavaScript, Python, MySQL, Java],
+    tools: [Angular, NodeJS, VScode, Github, New Relic, Directus, Wordpress],
     jobSkills: {
                    architect: "3D Rendering",
                    designer: "Graphic and Editorial",
                    dev: "Front-end dev"
                },
-    challenge: "I am doing trainig on frontendmentor",
+    challenge: "I am doing trainig on frontenddeveloper";
 }
 ```
 - 🔭 I’m currently working on [iconcept](https://iconcept.com.ar)
