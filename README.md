@@ -7,7 +7,7 @@ const sgvero = {
     code: [HTML, CSS, JavaScript, Python, MySQL, Java],
     tools: [Angular, NodeJS, VScode, Github, New Relic, Directus, Wordpress],
     jobSkills: {
-                   architect: "3D Rendering",
+                   architect: "Projects - 3D Rendering",
                    designer: "Graphic and Editorial",
                    dev: "Front-end dev"
                },
