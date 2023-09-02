@@ -11,7 +11,7 @@ const sgvero = {
                    designer: "Graphic and Editorial",
                    dev: "Front-end dev"
                },
-    challenge: "I am doing trainig on frontenddeveloper";
+    challenge: "I am doing trainig on full stack dev";
 }
 ```
 - 🔭 I’m currently working on [iconcept](https://iconcept.com.ar)
