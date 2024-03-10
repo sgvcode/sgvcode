@@ -15,7 +15,7 @@ const sgvero = {
 }
 ```
 - 🔭 I’m currently working on [iconcept](https://iconcept.com.ar)
-- 🌱 I continue learning Fullstack ![Java](https://img.shields.io/badge/-Java-6EBF20?style=flat&logo=java&logoColor=white) ![NodeJS](https://img.shields.io/badge/-React-E34F26?style=flat&logo=react&logoColor=white) ![Python](https://img.shields.io/badge/-Python-833EF2?style=flat&logo=flutter&logoColor=white)
+- 🌱 I continue learning Fullstack ![Java](https://img.shields.io/badge/-Java-6EBF20?style=flat&logo=java&logoColor=white) ![Node.JS](https://img.shields.io/badge/-NodeJS-E34F26?style=flat&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/-Python-833EF2?style=flat&logo=python&logoColor=white)
 
 #### Languages and frameworks:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -23,7 +23,7 @@ const sgvero = {
 ![MySql](http://img.shields.io/badge/-MySql-51CBF2?style=flat&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-6EBF20?style=flat&logo=python&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white)
-![Angular.js](https://img.shields.io/badge/Angular-F05032?style=flat&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/VueJS-F05032?style=flat&logo=vue.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
 
 #### Utilities:
