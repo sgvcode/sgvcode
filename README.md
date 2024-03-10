@@ -15,7 +15,7 @@ const sgvero = {
 }
 ```
 - 🔭 I’m currently working on [iconcept](https://iconcept.com.ar)
-- 🌱 I’m currently learning Fullstack ![Java](https://img.shields.io/badge/-Java-6EBF20?style=flat&logo=java&logoColor=white) ![React](https://img.shields.io/badge/-React-E34F26?style=flat&logo=react&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-833EF2?style=flat&logo=flutter&logoColor=white)
+- 🌱 I continue learning Fullstack ![Java](https://img.shields.io/badge/-Java-6EBF20?style=flat&logo=java&logoColor=white) ![NodeJS](https://img.shields.io/badge/-React-E34F26?style=flat&logo=react&logoColor=white) ![Python](https://img.shields.io/badge/-Python-833EF2?style=flat&logo=flutter&logoColor=white)
 
 #### Languages and frameworks:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
