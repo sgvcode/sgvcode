@@ -4,8 +4,8 @@
 ```javascript
 const sgvero = {
     pronouns: "she" | "her",
-    code: [HTML, CSS, JavaScript, Python, MySQL, Java],
-    tools: [Angular, NodeJS, VScode, Github, New Relic, Directus, Wordpress],
+    code: [HTML, CSS, JavaScript, Python, MySQL],
+    tools: [NodeJS, VScode, Github, Wordpress],
     jobSkills: {
                    architect: "Projects - 3D Rendering",
                    designer: "Graphic and Editorial",
@@ -27,14 +27,11 @@ const sgvero = {
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
 
 #### Utilities:
-![NetBeans](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=flat&logo=apache-netbeans-ide&logoColor=white")
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
-![Xampp](http://img.shields.io/badge/-Xampp-FF9A00?style=flat&logo=xampp&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
 ![Mamp](http://img.shields.io/badge/-Mamp-FF9A00?style=flat&logo=mamp&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat?style=flat&logo=WordPress&logoColor=FFFFFF&label=)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
 
 #### UX/UI - Design, Drawing and Photography:
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
@@ -42,7 +39,6 @@ const sgvero = {
 ![Adobe InDesign](https://img.shields.io/badge/-InDesign-FF4097?style=flat&logo=adobe-indesignr&logoColor=white)
 ![Sketchup](https://img.shields.io/badge/-Sketchup-F05032?style=flat&logo=sketchup&logoColor=white)
 ![Autocad](https://img.shields.io/badge/-Autocad-005F9E?style=flat&logo=Autodesk&logoColor=FFFFFF&label=)
-![Elementor](https://img.shields.io/badge/-Elementor-92003B?style=flat&logo=Elementor&logoColor=FFFFFF&label=)
 
 <!--
 - 💻 &nbsp;
