@@ -26,7 +26,7 @@ const sgvero = {
 ![Laravel](https://img.shields.io/badge/-Laravel-EDD222?style=flat&logo=laravel&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/VueJS-F05032?style=flat&logo=vue.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
 
 #### Utilities:
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
