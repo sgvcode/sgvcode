@@ -4,12 +4,12 @@
 ```javascript
 const sgvero = {
     pronouns: "she" | "her",
-    code: [HTML, CSS, JavaScript, Python, MySQL],
-    tools: [NodeJS, VScode, Github, Wordpress],
+    code: [HTML, CSS, PHP, JavaScript, Python, MySQL],
+    tools: [NodeJS, Laravel, Bootstrap, Github, Wordpress],
     jobSkills: {
                    architect: "Projects - 3D Rendering",
                    designer: "Graphic and Editorial",
-                   dev: "Front-end dev"
+                   dev: "Full-Stack dev"
                },
     challenge: "I keep training in full stack development";
 }
@@ -22,6 +22,8 @@ const sgvero = {
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![MySql](http://img.shields.io/badge/-MySql-51CBF2?style=flat&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-6EBF20?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-EDD222?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-EDD222?style=flat&logo=laravel&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/VueJS-F05032?style=flat&logo=vue.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
